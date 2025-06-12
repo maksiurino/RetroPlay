@@ -1,5 +1,6 @@
 {
   "folder": {
+    "emulator_type": "app",
     "emulator": "Mesen",
     "console": "NES",
     "games": [
