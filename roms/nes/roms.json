@@ -5,7 +5,8 @@
     "games": [
       {
         "name": "Super Mario Bros.",
-        "creation_year": "1985"
+        "creation_year": "1985",
+        "filename": "super_mario_bros.nes"
       }
     ]
   }
