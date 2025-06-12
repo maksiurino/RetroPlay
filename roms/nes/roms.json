@@ -4,7 +4,8 @@
     "console": "NES",
     "games": [
       {
-        "name": "Super Mario Bros."
+        "name": "Super Mario Bros.",
+        "creation_year": "1985"
       }
     ]
   }
